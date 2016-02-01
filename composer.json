@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Welfony": "library",
+            "PHPassLib": "library"
+        }
+    },
+    "require": {
+        "doctrine/dbal": "2.3.4",
+        "imagine/imagine": "~0.5.0",
+        "php": ">=5.3.3",
+        "phpseclib/phpseclib": "*",
+        "slim/slim": "2.*",
+        "slim/extras": "2.*",
+        "symfony/filesystem": "~2.0"
+    }
+}
