@@ -1,3 +1,3 @@
 ## API Back end for iOS Social App
 
-This code is RESTful API back end for iOS social app, and is built on Slim framework.
+RESTful API back end for iOS social app. Built based on Slim micro PHP framework and uses MySQL as database.
